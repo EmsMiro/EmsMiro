@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/ZWpvHFM/banner-github-removebg-preview.png" alt="banner" width="100%">
+![banner-github-removebg-preview](https://github.com/EmsMiro/EmsMiro/assets/88207749/c95026e6-d109-41a1-a7b1-0c6586d39df5)
 
 <h1 align="center">Emily Miro</h1>
 <h3 align="center">👩🏽‍💻Dev iniciante e estudante de Desenvolvimento Web Front end </h3>
