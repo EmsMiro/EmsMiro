@@ -25,7 +25,7 @@ Sou Desenvolvedora Frontend jr. apaixonada por criar experiências visuais envol
   Committed to learning and applying the latest technologies to enhance usability and design in digital projects.
 - 🔭 I’m currently working on **Vitrine Ajuda Animal Project**
 
-- 🌱 I’m currently learning **Bootstrap and POO in Javascript**
+- 🌱 I’m currently learning **Typescript and React**
 
 - 👩🏽‍💻All of my projects are available at [github.com/emsmiro](github.com/emsmiro)
 
