@@ -1,11 +1,11 @@
 ![banner-github-removebg-preview](https://github.com/EmsMiro/EmsMiro/assets/88207749/c95026e6-d109-41a1-a7b1-0c6586d39df5)
 
 <h1 align="center">Emily Miro</h1>
-<h3 align="center">👩🏽‍💻Dev iniciante e estudante de Desenvolvimento Web Front end </h3>
-<h3 align="center">Beginner Web Developer and Frontend Development Student </h3>
+<h3 align="center">👩🏽‍💻Dev jr. e estudante de Desenvolvimento Web Front end </h3>
+<h3 align="center"> Web Developer jr. and Frontend Development Student </h3>
 
 ## 🚀 Sobre mim
-Sou Desenvolvedora Frontend iniciante, apaixonada por criar experiências visuais envolventes e interfaces intuitivas para a web. Comprometida em aprender e aplicar as últimas tecnologias para aprimorar a usabilidade e o design em projetos digitais.
+Sou Desenvolvedora Frontend jr. apaixonada por criar experiências visuais envolventes e interfaces intuitivas para a web. Comprometida em aprender e aplicar as últimas tecnologias para aprimorar a usabilidade e o design em projetos digitais.
 
 - 🔭 Atualmente trabalhando no: **Projeto Vitrine Ajuda Animal**
 
