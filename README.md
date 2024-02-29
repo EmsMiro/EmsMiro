@@ -9,7 +9,7 @@ Sou Desenvolvedora Frontend iniciante, apaixonada por criar experiências visuai
 
 - 🔭 Atualmente trabalhando no: **Projeto Vitrine Ajuda Animal**
 
-- 🌱 Estou aprendendo: **Bootstrap e Programação Orientada a Objetos em Javascript**
+- 🌱 Estou aprendendo: **Typescript voltado para o framework React**
 
 - 👩🏽‍💻 Todos os meus projetos estão disponíveis em: [github.com/emsmiro](github.com/emsmiro)
 
